@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "PlayStation 1",
+    "imageUrl": "https://i.ibb.co/7JJ5J6Y/ps1-img.png",
+    "price": 3000
+  },
+  {
+    "id": 2,
+    "name": "PlayStation 2",
+    "imageUrl": "https://i.ibb.co/zxwxFNC/ps2-img.png",
+    "price": 5000
+  },
+
+  {
+    "id": 3,
+    "name": "PlayStation 3",
+    "imageUrl": "https://i.ibb.co/93pBJSq/ps3-img.png",
+    "price": 8000
+  },
+
+  {
+    "id": 5,
+    "name": "PlayStation 4",
+    "imageUrl": "https://i.ibb.co/f2Nth7J/ps4-img.png",
+    "price": 12000
+  },
+
+  {
+    "id": 6,
+    "name": "Nintendo Switch (V1)",
+    "imageUrl": "https://i.ibb.co/KFNHC9X/NS-img.png",
+    "price": 3000
+  }
+]

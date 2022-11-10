@@ -18,7 +18,7 @@
     }
 
     & .category-body-container {
-      opacity: 0.9;
+      opacity: 0.8;
     }
   }
 
@@ -50,7 +50,6 @@
     justify-content: center;
     border: 1px solid black;
     background-color: #1b9aaa;
-    opacity: 0.9;
     position: absolute;
 
     h2 {
@@ -58,6 +57,7 @@
       margin: 0 6px 0;
       font-size: 22px;
       color: #f5f1e3;
+      padding-bottom: 10px;
     }
 
     p {
