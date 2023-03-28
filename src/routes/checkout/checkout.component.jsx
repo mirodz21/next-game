@@ -4,6 +4,7 @@ import {
   selectCartTotal,
 } from "../../store/cart/cart.selector";
 import CheckOutItem from "../../components/checkout-items/checkout-item.component";
+import PaymentForm from "../../components/payment-form/payment-form.component";
 
 import "./checkout.styles.scss";
 
@@ -32,6 +33,7 @@ const CheckOut = () => {
         <CheckOutItem key={cartItem.id} cartItem={cartItem} />
       ))}
       <span className="total">Total: ₱{cartTotal}</span>
+      <PaymentForm />
     </div>
   );
 };
